@@ -31,7 +31,8 @@
 	border:1px solid black;
 	border-radius:10px;
 }
-.pictorial-news-section{
+/* main-article */
+.main-article{
 	width:250px;
 	height:250px;
 	background-color:white;
@@ -42,7 +43,7 @@
 	border-radius:10px;
 }
 
-.div3{
+.pictorial-news-section{
 	width:250px;
 	height:400px;
 	background-color:white;
@@ -52,7 +53,7 @@
 	border:1px solid black;
 	border-radius:10px;
 }
-.div3 img{
+.pictorial-news-section img{
 	width:150px;
 	height:100px;
 }
